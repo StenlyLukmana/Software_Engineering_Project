@@ -216,7 +216,8 @@
         <div class="max-w-7xl mx-auto flex justify-between items-center">
             <!-- Logo -->
             <div class="flex items-center space-x-3 animate-fadeInLeft">
-                <img src="{{ asset('images/B-removebg-preview.png') }}" alt="CS Learning Logo" class="h-12 w-12">
+                <i class="fas fa-graduation-cap me-2 gradient-text text-2xl"></i>
+                
                 <span class="text-2xl font-bold gradient-text font-pixel">CS Learning</span>
             </div>
             
